@@ -16,6 +16,9 @@
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
 
+<pre><code>\</code></pre>
+<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
+</button>
 
 Cmd + Ctrl + Space -> Emoji
 Cmd + Ctrl + q -> Lock
