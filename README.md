@@ -20,5 +20,8 @@
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
 
-Cmd + Ctrl + Space -> Emoji
-Cmd + Ctrl + q -> Lock
+</br>
+Cmd + Ctrl + Space -> Emoji </br>
+Cmd + Ctrl + q -> Lock </br>
+Cmd + Shift + L -> Show Library in Xcode to add UIButton.., etc. </br>
+
