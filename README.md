@@ -1,5 +1,10 @@
 # japanese_keyboard
 
+
+<pre><code>​</code></pre>
+<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
+</button>
+
 <pre><code>ရ</code></pre>
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
@@ -19,6 +24,8 @@
 <pre><code>\</code></pre>
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
+
+
 
 </br>
 Cmd + Ctrl + Space -> Emoji </br>
