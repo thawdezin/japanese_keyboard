@@ -33,6 +33,9 @@
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
 
+<pre><code>export PATH=$PATH:$HOME/Library/Android/sdk/platform-tools</code></pre>
+<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
+</button>
 
 </br>
 Cmd + Ctrl + Space -> Emoji </br>
