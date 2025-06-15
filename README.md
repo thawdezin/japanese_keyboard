@@ -37,6 +37,14 @@
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
 
+<pre><code>mitmproxy --listen-host 0.0.0.0 --listen-port 8080</code></pre>
+<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
+</button>
+
+<pre><code>adb shell settings put global http_proxy 10.0.2.2:8080</code></pre>
+<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
+</button>
+
 </br>
 Cmd + Ctrl + Space -> Emoji </br>
 Cmd + Ctrl + q -> Lock </br>
