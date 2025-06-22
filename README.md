@@ -45,6 +45,16 @@
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
 
+```diskutil list``` နဲ့ ဘာတွေရှိလဲ ကြည့်လိုက် ပြီးရင်  
+
+<pre><code>diskutil unmountDisk /dev/disk24</code></pre>
+<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
+</button>
+
+<pre><code>sudo diskutil eraseDisk ExFAT MyUSB MBR /dev/disk24</code></pre>
+<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
+</button>
+
 </br>
 Cmd + Ctrl + Space -> Emoji </br>
 Cmd + Ctrl + q -> Lock </br>
