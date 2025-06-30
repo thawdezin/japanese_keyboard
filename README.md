@@ -5,6 +5,9 @@
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
 
+
+In Japanese Keyboard, there is no following characters by default.  
+
 <pre><code>ရ</code></pre>
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
@@ -52,6 +55,10 @@
 </button>
 
 <pre><code>sudo diskutil eraseDisk ExFAT MyUSB MBR /dev/disk24</code></pre>
+<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
+</button>
+
+<pre><code>ollama run llama2-uncensored</code></pre>
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
 
