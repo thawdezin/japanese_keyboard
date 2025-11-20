@@ -48,6 +48,10 @@ In Japanese Keyboard, there is no following characters by default.
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
 
+<pre><code>npm run dev -- --host 0.0.0.0 --open</code></pre>
+<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
+</button>
+
 ```diskutil list``` နဲ့ ဘာတွေရှိလဲ ကြည့်လိုက် ပြီးရင်  
 
 <pre><code>diskutil unmountDisk /dev/disk24</code></pre>
