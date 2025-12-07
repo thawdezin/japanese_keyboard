@@ -75,3 +75,15 @@ Cmd + Ctrl + Space -> Emoji </br>
 Cmd + Ctrl + q -> Lock </br>
 Cmd + Shift + L -> Show Library in Xcode to add UIButton.., etc. </br>
 
+# ၁. Folder အဟောင်းကို ဖျက်မယ်
+rm -rf /Users/thawdezin/tdz/hsumyat
+
+# ၂. Folder အသစ် ပြန်ဆောက်မယ်
+mkdir -p /Users/thawdezin/tdz/hsumyat
+
+# ၃. Virtual Environment အသစ် ဖန်တီးမယ်
+python3 -m venv /Users/thawdezin/tdz/hsumyat
+
+# ၄. Activate လုပ်မယ်
+source /Users/thawdezin/tdz/hsumyat/bin/activate
+
