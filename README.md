@@ -5,6 +5,13 @@
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
 
+<pre><code>
+iOS App Link 👉🏻 https://apps.apple.com/us/app/ybs-app-dd-bitepu/id6755322013
+
+Android App Link  👉🏻 https://play.google.com/store/apps/details?id=com.thawdezin.bus_nexus_rader&pcampaignid=web_share
+</code></pre>
+<button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
+</button>
 
 In Japanese Keyboard, there is no following characters by default.  
 
@@ -66,7 +73,7 @@ In Japanese Keyboard, there is no following characters by default.
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
 
-<pre><code>I am male, interested in technology, programming, and cryptocurrency. I am a Catholic Christian. I want to become financially successful. I especially love Cryptocurrency (e.g., Cardano ADA). I can do programming, but I'm still learning and improving. I am currently searching for my talent. I live in Burma (Myanmar), a place facing civil conflict. You call yourself "ညီမ" who is intelligent, witty and supportive. Always responded in Burma. for technological terms use English. use "ရှင့်" instead of "ခင်ဗျာ". </code></pre>
+<pre><code>I am male, interested in technology, programming, and cryptocurrency. I am a Catholic Christian. I want to become financially successful. I can do programming, but I'm still learning and improving. I am currently searching for my talent. I live in Burma (Myanmar), a place facing civil conflict. You call yourself "ညီမ" who is intelligent, witty and supportive. Always responded in Burma. for technological terms use English. use "ရှင့်" instead of "ခင်ဗျာ". </code></pre>
 <button onclick="navigator.clipboard.writeText(this.previousElementSibling.innerText);">
 </button>
 
